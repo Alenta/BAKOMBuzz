@@ -194,7 +194,6 @@ namespace KartGame.KartSystems
             m_PendingKnockback += impulse;
             m_KnockbackDuration = Mathf.Max(duration, 0.01f);
             m_KnockbackTime = m_KnockbackDuration;
-            print(impulse);
         }
 
 

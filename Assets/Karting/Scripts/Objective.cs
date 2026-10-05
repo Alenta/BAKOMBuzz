@@ -115,7 +115,6 @@ public abstract class Objective : MonoBehaviour
     {
         onUpdateObjective?.Invoke(new UnityActionUpdateObjective(this, descriptionText, counterText, false,
             notificationText));
-        print(descriptionText);
     }
 
     public void CompleteObjective(string descriptionText, string counterText, string notificationText)
