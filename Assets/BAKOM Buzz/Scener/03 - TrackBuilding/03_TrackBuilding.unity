@@ -1008,7 +1008,7 @@ Terrain:
   m_TerrainData: {fileID: 15600000, guid: ea6772f7950bc494599628dd67b9fa4a, type: 2}
   m_TreeDistance: 5000
   m_TreeBillboardDistance: 50
-  m_TreeCrossFadeLength: 5
+  m_TreeCrossFadeLength: 77
   m_TreeMaximumFullLODCount: 50
   m_DetailObjectDistance: 80
   m_DetailObjectDensity: 1

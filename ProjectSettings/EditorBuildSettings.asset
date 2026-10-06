@@ -8,9 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BAKOM Buzz/IntroMenu.unity
     guid: d29260d8d84c94bd7ac95807b3da99d4
-  - enabled: 0
-    path: Assets/Karting/Scenes/MainScene.unity
-    guid: 92786e23da2af4a4f8803aaf44c47121
   - enabled: 1
     path: Assets/BAKOM Buzz/Scener/08 - Polish/08_Polish.unity
     guid: 497121ea4aed86442b4b0032ff82efc6

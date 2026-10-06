@@ -53,9 +53,7 @@ public class ObjectiveCompleteLaps : Objective
 
     protected override void OnTargetCollected()
     {
-        print("Collected target");
         if (isCompleted) return;
-        print("Is completed");
 
         string notificationText = AllTargetsCollected
             ? $"All {collectibleName}s collected - finish the race!"
